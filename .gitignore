@@ -1,0 +1,8 @@
+# Demo files
+attr.txt
+desc.txt
+
+# Exclude all executable files
+*.exe
+
+
