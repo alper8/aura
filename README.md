@@ -93,6 +93,8 @@ Copyright © 2025 [Alper Baykara](https://github.com/alper8).
 Feel free to DM me on LinkedIn if you want to use it for commercial purposes. 
 I'm not offering a general public license because I do not want a mega corporation making a SaaS tool out of my idea!
 
+If you write to me or make some contributions I will make a custom (probably free) license for you!
+
 ---
 
 ## 🌟 Roadmap  
