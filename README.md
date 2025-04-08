@@ -33,10 +33,10 @@ pip install -r requirements.txt
 ### Usage  
 #### Basic (Pre-configured for Turkish descriptions):  
 ```bash
-(manual)
+# CLI app with manuel entry
 python AddDesc.py
 
-(with arguments)
+# As a command
 python AddDesc.py attr.txt desc.txt
 ```  
 #### Debug Mode (Customize AI behavior):  
