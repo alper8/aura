@@ -43,7 +43,7 @@ python AddDesc.py attr.txt desc.txt
 ```bash
 python AddDesc.py --debug
 
-python AddDesc.py input.txt output.txt --debug --model gpt-4o --chunk_size 50
+python AddDesc.py input.txt output.txt --debug --model gpt-4o --chunk_size 50 # you can add more arguments
 ```  
 
 #### Input Example (`input_attributes.txt`):  
