@@ -1,3 +1,7 @@
+# Exclude env vars
+.env
+*.env
+
 # Demo files
 attr.txt
 desc.txt
@@ -5,4 +9,19 @@ desc.txt
 # Exclude all executable files
 *.exe
 
+# Virtual environments
+venv/
+.venv/
+env/
 
+# Exclude python artifacts
+pip-selfcheck.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache/
+
+# IDE
+.vscode/
+.idea/
